@@ -19,4 +19,4 @@ Import db springboot_api.sql
 Jalankan di terminal mvn spring-boot:run
 
 Dan berikut hasil endpoint di postman
-(./api.png)
+![Preview API](./api.png)
